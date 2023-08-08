@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![sigmatics' github stats](https://github-readme-stats-foczoxwtw-sigma67.vercel.app/api?username=sigma67&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-foczoxwtw-sigma67.vercel.app/api/top-langs/?username=sigma67&theme=dracula&hide=html&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-foczoxwtw-sigma67.vercel.app/api/top-langs/?username=sigma67&theme=dracula&hide=html&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
