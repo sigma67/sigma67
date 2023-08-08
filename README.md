@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![sigmatics' github stats](https://github-readme-stats.vercel.app/api?username=sigma67&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![sigmatics' github stats](https://github-readme-stats-foczoxwtw-sigma67.vercel.app/api?username=sigma67&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigma67&theme=dracula&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-foczoxwtw-sigma67.vercel.app/api/top-langs/?username=sigma67&theme=dracula&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 15042023/11647871
