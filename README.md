@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 [![sigmatics' github stats](https://github-readme-stats-foczoxwtw-sigma67.vercel.app/api?username=sigma67&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-foczoxwtw-sigma67.vercel.app/api/top-langs/?username=sigma67&theme=dracula&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.buymeacoffee.com/sigma67"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" align="left" width="150" ></a>
