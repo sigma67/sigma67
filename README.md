@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 About me: 
 
-- ✨ Maintainer of ``ytmusicap``, ``spotify_to_ytmusic``, ``pdm-build-locked``
+- ✨ Maintainer of ``ytmusicapi``, ``spotify_to_ytmusic``, ``pdm-build-locked``
 - 👯 major contributions to
    - ``cement``
    - ``pyartifactory``
