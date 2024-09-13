@@ -22,6 +22,7 @@ About me:
 - 👯 major contributions to
    - ``cement``
    - ``pyartifactory``
+   - ``python-cmake-file-api``
 - ⚡minor contributions to
    - ``virtualenv``
    - ``yamale``
