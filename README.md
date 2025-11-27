@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 
 About me: 
 
-- ✨ Maintainer of ``ytmusicapi``, ``spotify_to_ytmusic``, ``pdm-build-locked``
-- 👯 major contributions to
-   - ``cement``
-   - ``pyartifactory``
-   - ``python-cmake-file-api``
-- ⚡minor contributions to
-   - ``virtualenv``
-   - ``yamale``
+- ✨ Maintainer of
+   -  ``ytmusicapi``
+   -  ``spotify_to_ytmusic``
+   -  ``pdm-build-locked``
+- 👯 major contributions to ``cement``, ``pyartifactory``, ``python-cmake-file-api``
+- ⚡minor contributions to ``virtualenv``, ``yamale``
 
 If you would like to support my work, feel free to buy me a coffee below.
 
